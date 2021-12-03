@@ -1,0 +1,55 @@
+<about>About</about>
+<price>44.95</price>
+<string>String</string>
+<text>Text</text>
+<publish_date>2000-10-01</publish_date>
+<description>Unknown Description</description>
+</book>
+<book id="bk103">
+<author>Jose Almaraz</author>
+<title>Application Development</title>
+<genre>Sample</genre>
+<type>Random</type>
+<about>About</about>
+<price>44.95</price>
+<string>String</string>
+<text>Text</text>
+<publish_date>2000-10-01</publish_date>
+<description>Unknown Description</description>
+</book>
+<book id="bk104">
+<author>S, Biswa</author>
+<title>SOA Architecture</title>
+<genre>Sample</genre>
+<type>Random</type>
+<about>About</about>
+<price>44.95</price>
+<string>String</string>
+<text>Text</text>
+<publish_date>2000-10-01</publish_date>
+<description>Unknown Description</description>
+</book>
+<book id="bk105">
+<author>Mel Jones</author>
+<title>BT</title>
+<genre>Sample</genre>
+<type>Random</type>
+<about>About</about>
+<price>44.95</price>
+<string>String</string>
+<text>Text</text>
+<publish_date>2000-10-01</publish_date>
+<description>Unknown Description</description>
+</book>
+<book id="bk106">
+<author>Solo, Han</author>
+<title>Enterprise Apps</title>
+<genre>Sample</genre>
+<type>Random</type>
+<about>About</about>
+<price>44.95</price>
+<string>String</string>
+<text>Text</text>
+<publish_date>2000-10-01</publish_date>
+<description>Unknown Description</description>
+</book>
