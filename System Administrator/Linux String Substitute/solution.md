@@ -5,3 +5,8 @@ As already hint given in the problem statement, use sed to replace all occurance
     sed -i 's/Text/Submarine/g' /root/nautilus.xml
 
 Once it is applied validate by searching Text keyword inside this xml file and if you do nt see any entry, which means it applied as expected.
+
+
+####Another way use the Vi,
+
+    :%s/Random/Marine/g
