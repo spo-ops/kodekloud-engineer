@@ -1,0 +1,14 @@
+## Linux Banner
+
+```
+ssh steve@stapp02
+sudo -i
+
+## open new terminal2
+scp /home/thor/nautilus_banner steve@stapp02:/tmp
+
+## terminal1
+cat /etc/motd
+cp nautilus_banner /etc/motd
+
+```
